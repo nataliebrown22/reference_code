@@ -1,3 +1,1 @@
-# Code
-## model functions
-## various codes
+# Jupyter notebooks containing functions for wrangling and machine learning
