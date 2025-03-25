@@ -1,1 +1,3 @@
-# Jupyter notebooks with functions for wrangling and machine learning
+# Jupyter Notebooks with functions for:
+* wrangling
+* machine learning
